@@ -1,6 +1,6 @@
 import React,{useState} from "react";
 //import "./style.css"
-import myImage from './images/me.jpg';
+import myImage from './images/lion.jpg';
 
 export default function App() {
   const[angle,setAngle]=useState(0)
